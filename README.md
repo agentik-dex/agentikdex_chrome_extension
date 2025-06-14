@@ -4,7 +4,7 @@
 This guide will walk you through the process of manually installing the AgentikDex Chrome extension from a ZIP file. Manual installation is required when the extension is not available on the Chrome Web Store or when you have a custom/development version.
 
 ## Prerequisites
-- Google Chrome browser (version 88 or higher recommended)
+- Google Chrome browser
 - The AgentikDex extension ZIP file
 - Basic computer navigation skills
 
